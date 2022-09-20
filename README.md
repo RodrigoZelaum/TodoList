@@ -2,7 +2,7 @@
 O aplicativo tem como objetivo organizar as taferas diárias
 
 ## Ferramentas
-JavaScript, html, css, vue.js3, json-server
+JavaScript, html, css, vue.js3(options), json-server
 
 ## Project setup
 ```
